@@ -22,3 +22,4 @@
 ![image](https://github.com/FadMikhail/SQL_2/assets/132131230/5dbe4682-e100-452c-a591-157f1b839e11)
 
 
+В задании про год ничегоне говорится. 
